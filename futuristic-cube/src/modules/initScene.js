@@ -1,0 +1,1 @@
+// Scene initialization and animation logic will be added here.
